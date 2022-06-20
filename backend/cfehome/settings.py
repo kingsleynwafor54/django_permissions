@@ -29,7 +29,7 @@ SECRET_KEY =os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['d-prod.heroku.com']
+ALLOWED_HOSTS = ['k-prod-app.herokuapp.com/']
 
 
 # Application definition
